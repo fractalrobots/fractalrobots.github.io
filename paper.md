@@ -1,6 +1,6 @@
 ## Paper
 S Kriegman, A-M Nasab, D Blackiston, H Steele, M Levin, R Kramer-Bottiglio, J Bongard
-(2020).
+(2021).
 "[Scale invariant robot behavior with fractals](https://arxiv.org/abs/2103.04876)", 
 In _Proceedings of Robotics: Science and Systems (RSS)_.  <br>
 
