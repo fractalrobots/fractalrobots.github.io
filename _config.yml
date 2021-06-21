@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: CDOs
-description: Computer-Designed Organisms
+title: Fractalbots
+description: Fractal Robots
 plugins:
   - jekyll-relative-links
 relative_links:
