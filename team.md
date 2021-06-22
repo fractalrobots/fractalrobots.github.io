@@ -3,7 +3,7 @@
 <img src="https://cdorgs.github.io/img/sam.jpg" width="25%">
 
 
-**Sam Kriegman** is a Postdoctoral Associate at Tufts University and the University of Vermont. 
+**Sam Kriegman** is a Postdoc at Tufts University and the University of Vermont. 
 His research explores evolutionary robotics: the automatic creation of novel, functional, embodied machines.
 Sam 
 co-created the world’s first computer designed organisms, [xenobots](https://cdorgs.github.io/);
