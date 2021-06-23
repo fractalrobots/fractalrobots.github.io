@@ -1,7 +1,7 @@
 ## About
 
 
-**We're working to beef up this site before the [RSS conference, July 12-15](https://roboticsconference.org/). For now, check out the paper, code, and team tabs. Thanks for visiting!**
+**We're working to beef up this site before the [RSS conference, July 12-15](https://roboticsconference.org/). For now, check out the [paper](/paper), [code](/code), and [team](/team) tabs. Thanks for visiting!**
 
 
 ## Abstract
