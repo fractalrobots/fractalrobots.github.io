@@ -1,5 +1,10 @@
 ## About
 
+
+**We're working to beef up this site before [https://roboticsconference.org/](RSS, July 12). For now, check out the paper, code, and team tabs. Thanks for visiting!**
+
+
+## Abstract
 <!-- ![image](https://cdorgs.github.io/img/00_Design_Organism_Pair_GreenEctoderm_RedCardiac.png) -->
 Robots deployed at orders of magnitude different size scales, and that  retain the same desired behavior at any of those scales, 
 would greatly expand the environments in which the robots could operate.
