@@ -1,6 +1,11 @@
 ## About
 
 
+### Can we design tiny robots that when combined with copies of themselves fractally, provide utility at multiple length scales?
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/peygRQBmzGY" frameborder="0" allowfullscreen></iframe>
+<br><br>
+
+
 **We're working to beef up this site before the [RSS conference, July 12-15](https://roboticsconference.org/).**
 
 **For now, please check out the [paper](/paper), [videos](/videos) and [code](/code).**
