@@ -19,44 +19,23 @@ All videos are released under a [Creative Commons license](http://creativecommon
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/cpRFc_Z2c9I" frameborder="0" allowfullscreen></iframe>
 
 
-## **Sim2real:**
+# **Sim2real:**
 
+### The best evolved fractal using a single bladder:
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/FnHZBylM_JU" frameborder="0" allowfullscreen></iframe>
-<p>
-Single bladder simulated fractal at three size scales. 
-</p>
-<br><br>
 
+### The physical basal single bladder robot: 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/u7jEvPp-CrU" frameborder="0" allowfullscreen></iframe>
-<p>
-Single bladder physical module (basal robot). 
-</p>
-<br><br>
 
-
+### The physical single bladder design at the middle fractal scale:
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/jr2Toz6YCn8" frameborder="0" allowfullscreen></iframe>
-<p>
-Single bladder physical fractal (middle scale). 
-</p>
-<br><br>
 
-
+### The best basal robot design for a different, phase shifted actuation pattern:
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/bHJR8srK8LI" frameborder="0" allowfullscreen></iframe>
-<p>
-Another basal robot design evolved frop phase shifted volumetric actuation.
-</p>
-<br><br>
 
+### The same design at the middle fractal scale:
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/m6hYhY7g91E" frameborder="0" allowfullscreen></iframe>
-<p>
-Fractal with phase shifted actuation.
-</p>
-<br><br>
 
-
+### Xenobots are motile spheroids made of motile spheroids (cells), which can attach to form motile fractal assemblages:
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/YCvmK_UBF9U" frameborder="0" allowfullscreen></iframe>
-<p>
-Motile spheroids composed of motile spheroid cells are fractals. And they can heal together to form motile fractal assemblages of assemblages.
-</p>
-<br><br>
 
