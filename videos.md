@@ -19,7 +19,7 @@ All videos are released under a [Creative Commons license](http://creativecommon
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/cpRFc_Z2c9I" frameborder="0" allowfullscreen></iframe>
 
 
-## Sim2real
+## **Sim2real:**
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/FnHZBylM_JU" frameborder="0" allowfullscreen></iframe>
 <p>
