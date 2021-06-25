@@ -4,7 +4,29 @@ All videos are released under a [Creative Commons license](http://creativecommon
 <br>
 
 
-### Title font 
+### Most robots work well alone but lose their functionality when combined:
+
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/KOcsklxnH_Y" frameborder="0" allowfullscreen></iframe>
+<br>
+
+### Other robots are funtionless alone but work very well in a group:
+
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/Peh1gnKejGQ" frameborder="0" allowfullscreen></iframe>
+<br>
+
+### But, some robots work at both size scales...
+
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/RM3xrcorJN8" frameborder="0" allowfullscreen></iframe>
+<br>
+
+### ...and beyond
+
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/cpRFc_Z2c9I" frameborder="0" allowfullscreen></iframe>
+<br>
+
+
+
+## **Sim2real** 
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/FnHZBylM_JU" frameborder="0" allowfullscreen></iframe>
 <p>
