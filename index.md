@@ -1,13 +1,13 @@
 ## About
 
 
-### Q: Can we design robots that, when composed fractally, provide utility at multiple length scales?
+### **Q: Can we design robots that, when composed fractally, provide utility at multiple length scales?**
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/peygRQBmzGY" frameborder="0" allowfullscreen></iframe>
-<br><br>
+<br>
 
-### A: 
+### **A:**
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/WkjuMfOl5UA" frameborder="0" allowfullscreen></iframe>
-<br><br>
+<br>
 
 ### What's the big picture?
 Robots deployed at orders of magnitude different size scales, and that retain the same desired behavior at any of those scales, 
