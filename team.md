@@ -4,9 +4,9 @@
 
 
 **Sam Kriegman** is a Postdoc at 
-the Allen Discovery Center at Tufts
+the Allen Discovery Center at Tufts University
 and
-the Wyss Institute at Harvard. 
+the Wyss Institute at Harvard University. 
 His research explores evolutionary robotics: the automatic creation of novel, functional, embodied machines.
 These machines can in some cases perform useful work, or they may be used as scientific tools to understand evolution, development and adaptive behavior in living systems.
 Sam 
