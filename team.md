@@ -3,7 +3,7 @@
 <img src="https://cdorgs.github.io/img/sam.jpg" width="25%">
 
 
-**Sam Kriegman** is a Postdoc at 
+**Sam Kriegman** is a Postdoctoral Fellow at 
 the Allen Discovery Center at Tufts University
 and
 the Wyss Institute at Harvard University.
