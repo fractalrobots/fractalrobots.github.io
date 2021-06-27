@@ -6,13 +6,13 @@
 **Sam Kriegman** is a Postdoc at 
 the Allen Discovery Center at Tufts University
 and
-the Wyss Institute at Harvard University. 
+the Wyss Institute at Harvard University.
 His research explores evolutionary robotics: the automatic creation of novel, functional, embodied machines.
 These machines can in some cases perform useful work, or they may be used as scientific tools to understand evolution, development and adaptive behavior in living systems.
 Sam 
 co-created the world’s first computer designed organisms, [xenobots](https://cdorgs.github.io/);
 co-developed the open-source soft robot kit, [voxcraft](https://voxcraft.github.io/);
-co-organizes the [Virtual Creatures Competition](https://virtualcreatures.github.io/); 
+co-organizes the [virtual creatures competition](https://virtualcreatures.github.io/); 
 and has co-authored numerous peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) spanning robotics, artificial intelligence, and synthetic biology.
 <br><br><br>
 
