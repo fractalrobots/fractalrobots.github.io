@@ -4,7 +4,7 @@
 
 
 **Sam Kriegman** 
-is a Postdoctoral Fellow at Harvard University and Tufts University.
+is a Postdoctoral Fellow at Harvard University.
 His research explores evolutionary robotics: the automatic creation of novel, functional, embodied machines.
 These machines can in some cases perform useful work, or they may be used as scientific tools to understand evolution, development and adaptive behavior in living systems.
 Sam 
