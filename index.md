@@ -30,8 +30,8 @@ We also show that biobots can spontaneously exhibit self similar attachment geom
 <br>
 
 ### Where was the paper published?
-The paper will appear July 12-16 in the proceedings of [Robotics: Science and Systems (RSS)](https://roboticsconference.org/).
-RSS is one of, if not the most prestigious robotics conference in the world, which focuses more on paradigm shattering robot science than incremental engineering improvements.
+The paper will appear July 12-16, 2021, in the proceedings of [Robotics: Science and Systems (RSS)](https://roboticsconference.org/).
+RSS is one of, if not the most prestigious robotics conference in the world, focusing more on risky but potentially paradigm shattering robot science than safe and incremental engineering improvements.
 Conference papers are peer reviewed by three experts in the field, only the best submissions are accepted to be presented at the conference and appear in the proceedings.
 <br>
 
