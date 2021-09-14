@@ -13,9 +13,9 @@ robots, in all manner of shapes and sizes, that act on their own, without remote
 These machines can in some cases perform useful work, 
 or they may be used as scientific tools to understand how animals evolve, grow, move, sense, and think. 
 A Cozzarelli Prize recipient,
-he is the co-creator the world’s first computer designed organisms ("[xenobots](https://cdorgs.github.io/)"), 
+he is the co-creator of the world’s first computer-designed organisms ("[xenobots](https://cdorgs.github.io/)"), 
 co-developer of the open-source soft robot kit [Voxcraft](https://voxcraft.github.io/), 
-co-organizer the [Virtual Creatures Competition](https://virtualcreatures.github.io/), 
+co-organizer of the [Virtual Creatures Competition](https://virtualcreatures.github.io/), 
 and co-author of numerous peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) spanning robotics, computer science, and biology.
 <br><br><br>
 
