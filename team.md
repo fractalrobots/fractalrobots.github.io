@@ -6,8 +6,8 @@
 **Sam Kriegman** 
 was a postdoc at the University of Vermont when this research was originally conducted and the paper was written (winter, 2020/21).
 Sam is now a Postdoctoral Fellow at Harvard University.
-His research draws inspiration from the origin and subsequent evolution of life, 
-and applies the underlying mechanisms of self-organization and natural selection ("survival of the fittest") 
+His [research](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) draws inspiration from the origin and subsequent evolution of life, 
+and applies the underlying mechanisms of self-organization ("order for free") and natural selection ("survival of the fittest") 
 to the creation of novel autonomous machines: 
 robots, in all manner of shapes and sizes, that act on their own, without remote control.
 These machines can in some cases perform useful work, 
@@ -15,8 +15,7 @@ or they may be used as scientific tools to understand how animals evolve, grow, 
 A Cozzarelli Prize recipient,
 he is the co-creator of the world’s first computer-designed organisms ("[xenobots](https://cdorgs.github.io/)"), 
 co-developer of the open-source soft robot kit [Voxcraft](https://voxcraft.github.io/), 
-co-organizer of the [Virtual Creatures Competition](https://virtualcreatures.github.io/), 
-and co-author of numerous peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) spanning robotics, computer science, and biology.
+and co-organizer of the [Virtual Creatures Competition](https://virtualcreatures.github.io/).
 <br><br><br>
 
 
